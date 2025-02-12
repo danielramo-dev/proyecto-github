@@ -5,5 +5,5 @@ Date:   Tue Feb 11 18:35:13 2025 +0100
     First Commit
 
 
-He utilizado git reste ya que veo mejor que directamente deshaga el ultimo commit a que cree un nuevo commit que 
+He utilizado git reset ya que veo mejor que directamente deshaga el ultimo commit a que cree un nuevo commit que 
 deshaga los cambio del commit anterior como hace git revert
